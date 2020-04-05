@@ -13,7 +13,10 @@
   "author": "Behrad <behradz@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "async": "^2.6.0",
     "debug": "^2.2.0",
-    "influx": "^4.2.3"
+    "influx": "^5.0.7",
+    "node-schedule": "^1.2.5",
+    "parse-duration": "^0.1.1"
   }
 }
