@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-influxdata",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Loopback Connector for InfluxDB",
   "main": "index.js",
   "scripts": {
