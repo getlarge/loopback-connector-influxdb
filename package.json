@@ -1,6 +1,6 @@
 {
-  "name": "loopback-connector-influxdb",
-  "version": "0.4.0",
+  "name": "loopback-connector-influxdata",
+  "version": "0.4.2",
   "description": "Loopback Connector for InfluxDB",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/behrad/loopback-connector-influxdb"
+    "url": "git://github.com/getlarge/loopback-connector-influxdb"
   },
   "author": "Behrad <behradz@gmail.com>",
   "license": "MIT",
