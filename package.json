@@ -11,6 +11,10 @@
     "url": "git://github.com/getlarge/loopback-connector-influxdb"
   },
   "author": "Behrad <behradz@gmail.com>",
+  "contributors": [
+    "Gerben Bas <gerben.bas@widgetbrain.com>",
+    "Edouard Maleix <ed@getlarge.eu> (https://getlarge.eu)"
+  ],
   "license": "MIT",
   "dependencies": {
     "async": "^2.6.0",
